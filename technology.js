@@ -2,7 +2,7 @@
 	"technology": {
 		"1": {
 			"id": 1,
-			"picture": "http://www.abkhazia.ru/abkhazia/symbols/flag.png",
+			"picture": "http://img.freeflagicons.com/thumb/round_icon/anguilla/anguilla_640.png",
 			"title": "Abkhazia",
 			"info": "Capital: Sokhumi"
 		}
