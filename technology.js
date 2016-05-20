@@ -2,7 +2,7 @@
 	"technology": {
 		"1": {
 			"id": 1,
-			"picture": "wiki/Abkhazia#/media/File:Flag_of_Abkhazia.svg",
+			"picture": "http://www.abkhaziagov.org/ru/state/sovereignty/flag_b.jpg",
 			"title": "Abkhazia",
 			"info": "Capital: Sokhumi"
 		}
