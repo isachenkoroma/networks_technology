@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project_ZIB</string>
+
+    <!-- for activity_start -->
+    <string name="hello">Welcome!</string>
+    <string name="authors">The project was created by\n Zharikov Ilya, Isachenko Roman, Bochkarev Artem.</string>
+
+    <!-- for ad_item -->
+    <string name="image_description">technology</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_picture">icon_picture</string>
+</resources>
